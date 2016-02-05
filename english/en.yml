@@ -14,3 +14,5 @@ en:
         over: This video call is over
       video_request1:
         over1: This video call is done
+      video_request2:
+        over2: This video call is in progress
