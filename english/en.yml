@@ -12,3 +12,5 @@ en:
       access_token_invalid: invalid access token
       video_request:
         over: This video call is over
+      video_request1:
+        over1: This video call is done
