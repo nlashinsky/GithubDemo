@@ -1,0 +1,9 @@
+en:
+  api:
+    errors:
+      profile_completed_step: {incorrect: Incorrecto}
+      device_token: {cannot_be_blank: Contador dispositivo no puede estar en blanco!}
+      device_type: {is_required: Se requiere el tipo de dispositivo!}
+      email_or_password_not_present: La solicitud deberá contener el correo electrónico y la contraseña
+      access_token_invalid: Token de acceso no válido
+      video_request: {over: Esta llamada de video se realiza}
