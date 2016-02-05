@@ -1,0 +1,200 @@
+en:
+  name:
+    '89': Bariatric Surgery
+    '90': Cochlear Implantation
+    '14': Otolaryngology (ENT)
+    '24': Colorectal Surgery
+    '12': Urology
+    '70': Transplant Surgery
+    '71': Addiction Medicine
+    '72': Adolescent Medicine
+    '73': Child Abuse
+    '74': Child and Adolescent Psychiatry
+    '75': Clinical Neurophysiology
+    '76': Forensic Psychiatry
+    '77': Maternal and Fetal Medicine
+    '78': Medical Toxicology
+    '79': Men's Health
+    '80': Neonatal-Perinatal Medicine
+    '20': Family Medicine
+    '4': Cardiology
+    '6': Pediatrics
+    '50': Physical Medicine and Rehabilitation
+    '51': Nephrology
+    '52': Plastics surgery (Hand)
+    '53': Sexual Health
+    '54': Healthy Lifestyle
+    '55': Oral Maxillofacial Surgery
+    '48': Pain Medicine
+    '47': Pediatric Surgery
+    '49': Radiology
+    '35': Endocrinology
+    '18': Oncology - Medical
+    '68': Oncology - Radiation
+    '56': Anesthesiology and Critical Care
+    '42': Geriatric Medicine
+    '38': Gastroenterology
+    '16': Psychiatry
+    '39': Infectious Disease
+    '44': Aesthetics Medicine
+    '37': Pulmonology
+    '45': Dermatology
+    '40': Rheumatology
+    '41': 'Hematology '
+    '19': General Surgery
+    '28': Orthopedics (Spine)
+    '25': Plastic surgery (Breast)
+    '31': Orthopedics (Hip)
+    '21': Internal Medicine
+    '26': Vascular Surgery
+    '29': Orthopedics (Shoulder)
+    '66': Interventional Radiology
+    '46': Neurosurgery
+    '32': Oncology
+    '30': Orthopedics (Ankle/Foot)
+    '27': Trauma Surgery
+    '34': Orthopedics (Hand/Wrist)
+    '17': Obstetrics and Gynecology
+    '10': Plastic Surgery
+    '9': Ophthalmology
+    '8': Neurology
+    '11': Cardiothoracic Surgery
+    '69': Oncology - Surgical
+    '83': Reproductive Medicine/Infertility
+    '61': Critical Care Medicine (ICU/CCU)
+    '7': Orthopedics Surgery
+    '62': Diagnostic Radiology
+    '84': Sleep Medicine
+    '33': Orthopedics (Knee)
+    '63': Hospice and Palliative Medicine
+    '85': Smoking Cessation
+    '86': Sports Medicine
+    '87': Weight Management
+    '64': Hospitalists
+    '88': Women's Health
+    '57': Emergency Medicine
+    '58': Occupational Medicine
+    '65': Interventional Cardiology
+    '59': Surgical Specialties
+    '60': Allergy and Immunology
+    '67': Nuclear Medicine
+    '81': Neurodevelopmental Disabilities
+    '82': Public Health and General Preventive Medicine
+  display_ailments:
+    '14': Sore Throat, Earache, Snoring, Sleep Disorders
+    '12': Urological Surgeries
+    '20': Flu, Cold, Fever, Diarrhea, Allergies, Cough, Headaches
+    '4': Heart Attack
+    '6': Child Development, Child Health
+    '18': Cancer, Lung Cancer, Tumor
+    '16': Depression, Anxiety, Trauma, Stress, Eating Disorders
+    '37': Asthma
+    '21': Sports Injuries
+    '9': Cataracts
+    '8': Stroke, Parkinsons
+    '7': Knee Surgery, Hip Injuries
+  description:
+    '89': Bariatric Surgery, weight loss surgery
+    '14': Ear, Nose, Throat, Specialist, Otolaryngologist, Sphenoid, Head, Neck, Infection,
+      Cleft, Reconstruction, Maxillofacial, Jaws, Oral, Allergy, Hearing, Soreness,
+      Sinusitis, Breathing, Inner, Middle, Thyroid, Voice, Rhinitis, Mucous, Stuffy,
+      Tonsil, Cancer, Tongue, Mouth Surgery, Nose Cancer, Nasopharyngeal, Vestibular,
+      Perforaton, Ear Drum, Nose Polyp, nasal polyp, vertigo, Obstructive sleep apnoea
+      (OSA), Sore Throat, Earache, Eye Infection, Snoring, Sleep Disorders
+    '24': Intestine, Anus, Piles, Hemorrhoids, Fistula, Colorectal, Colonoscope, Colonoscopy,
+      Scope, FAP, HNPCC
+    '12': Urologist, Urology, Kidney Transplant, Kidney Tumor, Prostate, Circumcision,
+      Urinary Tract, Kidney, Male, Reproductive, Bladder, Adrenal, Tumor, Congenital,
+      Abnormalities, Developmental, Urine, Urination, Urethra, Stone, Surgery, Prostate,
+      BPH, PSA, bladder, stone, calculi, staghorn, ureteric, testes, torsion, penis,
+      penile, DJ, ESWL, RCC, renal cell carcinoma, hydronephrosis, circumcision, Urological
+      Surgeries
+    '20': Cough, Cold, Stomach, Ache, Head, Flu, Internal Medicine, Primary Care,
+      Pain, Illness, Physical, Health Test, Health Screening, Asthma, Back, Soreness,
+      Diabetes, Chest Pain, Hypertension, Blood Pressure, Fever, Migraine, Family,
+      Children, Kids, Throbbing, Family Medicine, Chronic Disease, Hyperlipidemia,
+      Cholesterol, Acute, Health Screen, influenza, strep throat, urti, pharyngitis,
+      tonsilitis, gastric flu, gastritis, gastroenteritis, food poisoning, headache,
+      migraine, otitis media/externa, ear infection, eye infection, conjunctivitis,
+      Allergies, Frostbite, Bruises, Dehydration, Travel Medications, Eating Disorder,
+      Diahreea
+    '4': Cardiology, Cardiologist, Heart, Pain, Valve, Coronary, Artery, Vein, Disease,
+      Congenital, Failure, Defect, Blood, Circulation, Atherosclerosis, Heart Attack,
+      Myocardial Infarction, Pulse, Arrest, Irregular, Pulmonary, Pacemaker, Vericose,
+      Stent, Catheter, Murmur, Heart Failure, Rhythm, Af. Stent, IHD
+    '6': Pediatrics, Paediatrics, Pediatrician, Paediatrician, Child, Children, Kids,
+      Infants, Toddler, Congenital, Defect, Surgery, Pediatric Surgery, Paediatric
+      Surgery, Pain, Soreness, Adolescent, Fetus, Malformation, Abnormality, Chest,
+      Maternal, Bronchiolitis, Kid, Neonat, Baby, developmental delay, syndrome, Child
+      Development, Child Health
+    '50': Post-stroke, post-fracture, day care, physiotherapy, physiotherapist, occupational
+      therapist, speech therapist, PT, OT, ST
+    '51': Polycystic kidney, dialysis, nephritis, nephrotic, nephritic, kidney failure
+    '47': Undescended, testes, imperforate, intussuception, PDA, TOF, cleft, circumcision
+    '49': Cope loop, drain, coil, tap, x-ray, CT, CAT, PET, MRI, MRA, ultrasound,
+      Magnetic, MIBI, venogram
+    '35': Thyroid, Adrenals, Endocrine, Diabetes, Hormone
+    '18': Cancer, Tumor, Oncologist, Chemotherapy, Scan, Pet, Radiotherapy, Radiation,
+      Leukemia, Testicular, Oncology, radiotherapy, RT, Lung Cancer
+    '42': Elderly, Geriatric, Frequent Falls, Multiple Medical Problems, Dementia,
+      Rehab
+    '38': Stomach, Liver, Hepatitis, Gastroenterologist, Gastroenterology, crohns,
+      ulcerative colitis, UC
+    '16': Psychiatrist, Mental, Behavior, Cognitive, Disorder, Abnormal, Alzheimer
+      Therapy, Attention, Dementia, Autism, Addiction, Eating, Insomnia, Mood, Anxiety,
+      Bipolar, Depression, Adult, Adolescent, Psychotherapy, Psychological, Schiz,
+      personality, BPSD, neurosis, psychosis, dystonia, anxiety, eating disorder,
+      body dysmorphia, stress
+    '39': Infectious Disease, Dengue, Fever, Malaria, Infection, HIV,  tropical disease
+    '44': Aesthetics, Scar, Laser, Botox, Fillers, Fat slimming, IPL
+    '37': Lung, Respi, Asthma, Lung Cancer, Respiratory Failure, Smoking, COPD, Schiz,
+      personality, BPSD, neurosis, psychosis, dystonia, anxiety, eating disorder,
+      body dysmorphia, stress, Bronchitis, Smoking
+    '45': Derm, Skin, Rash, Psoriasis, Eczema, Dermatitis, Dermatology, mole
+    '40': Rheumato, Rheumatoid Arthritis, Joint, Inflamation, Autoimmune, SLE, gout
+    '41': Blood Disorders, Lymphoma, Leukaemia, myelodysplasia, myeloplastic, blast
+    '19': Surgery, Surgeon, General, Abdominal, Colorectal, Stomach, Intestinal, Intestine,
+      Liver, Colon, Hernia, Skin, Breast, Tissue, Soft, Trauma
+    '28': Slipped Disc, Back Pain, Stiff Back, Cervical, Spondylosis, Whiplash, PID,
+      DDD, listhesis, spine
+    '25': Fibroadenoma, Breast Cancer, Mammo, Her2, SMAC, BRCA, breast lump
+    '31': Hip Fracture, Hip Dislocation, Hip, Pelvic Fracture, Pelvic, Crush
+    '21': Adolescent Medicine, Allergy And Immunology, Cardiology, Endocrinology,
+      Gastroenterology, Geriatrics, Hematology, Infectious Disease, Nephrology, Oncology,
+      Pulmonology, Rheumatology, Sports MedicineSports Doctor, Sports Injuries
+    '26': Veins, Arteries, Varicose, Graft, Fistula. Av, Vascular, Hemangioma, PVD
+    '29': Impingement, Shoulder Dislocation, Frozen Shoulder, Brachial, rotator cuff,
+      clavicle, clavicular, supracondylar
+    '46': neurosurg, brain tumour, brain tumor, aneurysm, shunt, craniect, brain surgery
+    '32': Bone/Soft Tissue Cancers, Chemo, Cancer, Tumour, Tumor Oncology
+    '30': Sprain, Ankle Fracture, Foot Fracture, Ankle Ligament, flat foot, pes, bunion
+    '27': Fracture, Dislocation, Accident, Trauma Surgery, RTA, femoral, multiple
+      fracture
+    '34': Carpal Tunnel, De Quervain, Trigger, Finger, Scaphoid, Wrist, Hand, colles
+    '17': Pregnancy, hyperemesis, premature delivery, rupture, uterus, womb, partum,
+      PE, eclampsia, delivery, twin, caesarian, ovary, IVF, fertility, endometrium,
+      endometriosis, menses, menstrual, menorrhea, menorrhagia, PCOS, polycystic ovarian,
+      cervical, cervix, HPV, miscarriage, obstetrics, gynaeFertility
+    '10': Reconstructive, Face, Jaw, Breast, Facial, Mouth, Body, Fat, Restore, Restoration,
+      Correction, Microsurgery, Hand, Hand Surgery, Burn, Burns, Cosmetic, Graft,
+      Sculpt, Sculpting, Autograft, Xenograft, Allograft, Pediatric, Surgery, Surgical,
+      Morph, Double eyelid, chin, lift, augmentation, scar revision, liposuction,
+      mole removal, flap
+    '9': Opthalmology, Opthalmologist, Eyes, Vision, Surgery, Eye, Eye Surgery, Cornea,
+      Blind, Laser, Retinal, Retina, Dilation, Pupil, Blurriness, Reconstructive,
+      Cataract, Cataracts, Glaucoma, Pediatric, Refractive, Ocular, Surgical, Removal,
+      Lasik, Myopia, Lazy Eye, Strabismus, Eyelid, Orbit, Eyeball
+    '8': Neurology, Neurologist, Nerve, Brain, Mind, Central, Nervous, Defect, Abnormality,
+      Tumor, Disorder, Surgery, Surgeon, Alzheimers, Disease, Pain, Spinal Cord, Neurological,
+      Sleep, Epilepsy, Seizures, Psychiatry, Neuromuscular, Pallative, Stroke, Parkinsons,
+      Cranial, PD, neuron, ALS, multiple sclerosis, MS, Parkinsons
+    '11': Surgical, Surgery, Heart, Valve, Bypass, Coronary, Pulmonary, Angioplasty,
+      Vessel, Lung, Disease, Stroke, Pulse, Open Heart, Stent, Chest, Thorax, Implantation,
+      Transplant, Graft, Stenosis, Robot, Invasive, Cardiopulmonary, Heart Surgery,
+      Lung Surgery, Pleural, CABG, VATS
+    '7': Orthopaedics, Orthopedic Surgery, Orthopaedic Surgery, Knee, Bone, Surgery,
+      Spine, Hip, Shoulder, Reconstructive, Joint, Replacement, Ligament, Sports Medicine,
+      Sports, Injury, Tumor, Congenital, Degenerative, Soreness, Pain, Knee Surgery,
+      Hip Injuries
+    '33': Meniscus, Recon, Graft, Knee Surgery, ACL, MCL, LCL, cruciate, collateral,
+      osgood, ITB, iliotibial, hamstring, quadriceps
