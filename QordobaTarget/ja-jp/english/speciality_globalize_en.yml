@@ -1,0 +1,14 @@
+/* Localized versions of Info.plist keys */
+
+"q.hello"			="Hello";
+"q.doctors"			="Doctos";
+"q.select_doctors" 	="select_doctors";
+"q.inbox"			="inbox";
+"q.test"			="Test";
+"q.home"			="Home";
+"q.home1"			="Home1";
+"q.home2"			="Home2";
+"q.home3"			="Home3";
+"q.testnewstring"			="TEst new Strings";
+"q.testnewstring2"			="TEst new Strings 2";
+"q.testnewstring3"			="TEst new Strings 3";
