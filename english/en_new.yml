@@ -12,3 +12,6 @@ en:
         is_required: Device type is required
       email_or_password_not_present: The request must contain the email and password
       access_token_invalid: invalid access token
+      field:
+        field_required: "the field is required"
+
