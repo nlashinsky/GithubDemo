@@ -1,5 +1,6 @@
 en:
   name:
+    '899': Quiqup
     '89': Bariatric Surgery
     '90': Cochlear Implantation
     '14': Otolaryngology (ENT)
@@ -66,7 +67,7 @@ en:
     '62': Diagnostic Radiology
     '84': Sleep Medicine
     '33': Orthopedics (Knee)
-    '63': Hospice and Palliative Medicine
+    '63': Palliative Medicine
     '85': Smoking Cessation
     '86': Sports Medicine
     '87': Weight Management
