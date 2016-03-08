@@ -1,0 +1,139 @@
+en:
+  name:
+    '89': Bariatric kirurgi
+    '90': Cochleaimplantat
+    '14': Otolaryngology (ENT)
+    '24': Kolorektal kirurgi
+    '12': Urologi
+    '70': Transplantationskirurgi
+    '71': Beroendemedicin
+    '72': Adolescentmedicinen
+    '73': Barnmisshandel
+    '74': Barn- och ungdomspsykiatri
+    '75': Klinisk neurofysiologi
+    '76': Rättspsykiatri
+    '77': Maternal och Fetal Medicine
+    '78': Medicinsk Toxicology
+    '79': Mäns hälsa
+    '80': Neonatal-Perinatal Medicine
+    '20': Family Medicine
+    '4': Kardiologi
+    '6': Pediatrik
+    '50': Fysisk medicin och rehabilitering
+    '51': Nefrologi
+    '52': Plast kirurgi (hand)
+    '53': Sexuell hälsa
+    '54': Hälsosam livsstil
+    '55': Oral Maxillofacial Surgery
+    '48': Smärtbehandling
+    '47': Pediatric Surgery
+    '49': Radiologi
+    '35': Endokrinologi
+    '18': Onkologi - Medical
+    '68': Onkologi - Strålning
+    '56': Anestesiologi och intensivvård
+    '42': Geriatrik
+    '38': Gastroenterologi
+    '16': Psykiatri
+    '39': Smittsam sjukdom
+    '44': Estetik Medicine
+    '37': Pulmonology
+    '45': Dermatologi
+    '40': Reumatologi
+    '41': Hematologi
+    '19': General Surgery
+    '28': Ortopedi (Spine)
+    '25': Plastikkirurgi (bröst)
+    '31': Ortopedi (Hip)
+    '21': Intern medicin
+    '26': Kärl~~POS=TRUNC kirurgi~~POS=HEADCOMP
+    '29': Ortopedi (skuldra)
+    '66': Interventionell radiologi
+    '46': Neurokirurgi
+    '32': Onkologi
+    '30': Ortopedi (ankel / fot)
+    '27': Trauma kirurgi
+    '34': Ortopedi (Hand / handled)
+    '17': Obstetrik och gynekologi
+    '10': Plastikkirurgi
+    '9': Oftalmologi
+    '8': Neurologi
+    '11': Thoraxkirurgi
+    '69': Onkologi - Surgical
+    '83': Reproductive Medicine / Infertilitet
+    '61': Critical Care Medicine (ICU / CCU)
+    '7': Ortopedi kirurgi
+    '62': Röntgen
+    '84': Sleep Medicine
+    '33': Ortopedi (knä)
+    '63': Hospice och palliativ medicin
+    '85': Rökavvänjning
+    '86': Sports Medicine
+    '87': Viktkontroll
+    '64': Hospitalists
+    '88': Kvinnors hälsa
+    '57': Emergency Medicine
+    '58': Yrkes~~POS=TRUNC medicin~~POS=HEADCOMP
+    '65': Interventionell kardiologi
+    '59': Kirurgiska Specialties
+    '60': Allergi och immunologi
+    '67': Nuclear Medicine
+    '81': Nerv funktionsnedsättning
+    '82': Folkhälsa och General profylaxen
+  display_ailments:
+    '14': Halsont, Earache, snarkning, sömnstörningar
+    '12': Urologiska Operationer
+    '20': Influensa, kall, feber, diarré, allergier, hosta, huvudvärk
+    '4': Hjärtattack
+    '6': Child Development, barns hälsa
+    '18': Cancer, lungcancer, tumör-
+    '16': Depression, ångest, trauma, stress, ätstörningar
+    '37': Astma
+    '21': Idrotts~~POS=TRUNC
+    '9': Grå starr
+    '8': Stroke, Parkinsons
+    '7': Knäoperation, Hip Skador
+  description:
+    '89': Bariatric kirurgi, viktminskning kirurgi
+    '14': Öron, näsa, hals, Specialist, Otolaryngologist, kilformade, huvud, hals, infektion, kluven, återuppbyggnad, Maxillofacial, Jaws, Oral, Allergi, Hearing, ömhet, bihåleinflammation, Andning, Inre, Mellanöstern, sköldkörtel, Voice, rinit, slemhinnor, stuffy, tonsiller, cancer, tunga, mun kirurgi, näsa Cancer, nasofaryngealt, Vestibular, Perforaton, trumhinnan, näsa polyp, näspolyp, yrsel, obstruktiv sömnapné (OSA), halsont, Earache, Ögoninfektion, snarkning, sömnstörningar
+    '24': Tarmen, Anus, pålar, hemorrojder, fistel, Colorectal, colonoscope, koloskopi, Scope, FAP, HNPCC
+    '12': Urolog, urologi, njurtransplantation, njurtumör, prostata, omskärelse, urinvägsinfektion, njure, Man, Reproduktions, urinblåsan, Adrenal, Tumör, medfödd, avvikelser, utvecklings, urin, urinering, urinrör, sten, kirurgi, prostata, BPH, PSA , urinblåsa, sten, calculi, staghorn, ureteric, testiklar, vridning, penis, penis, DJ, ESVL, RCC, njurcellskarcinom, hydronefros, omskärelse, urologiska operationer
+    '20': Hosta, förkylning, mage, värk, huvud, influensa, Internal Medicine, Primary Care, smärta, sjukdom, fysisk, Health Test, hälsoundersökningar, astma, Back, ömhet, Diabetes, bröstsmärta, Hypertension, blodtryck, feber, migrän, familj, barn, barn, bultande, Family Medicine, kronisk sjukdom, hyperlipidemi, kolesterol, akuta, hälsa Screen, influensa, strep throat, urti, faryngit, tonsillit, gastric influensa, gastrit, gastroenterit, matförgiftning, huvudvärk, migrän, öroninflammation / externa, öroninfektion, ögoninfektion, bindhinneinflammation, allergier, Frostbite, blåmärken, Uttorkning, Rese mediciner, ätstörning Diahreea
+    '4': Kardiologi, kardiolog, hjärta, smärta, Valve, Coronary, artär, ven, sjukdom, medfödd, Misslyckande, defekt, Blood, Circulation, åderförkalkning, hjärtinfarkt, hjärtinfarkt, Pulse, Arrest, Oregelbunden, Pulmonary, Pacemaker, Vericose, Stent, kateter, Murmur, hjärtsvikt, rytm, Af. Stent, IHD
+    '6': Pediatrics, pediatrik, barnläkare, barnläkare, barn, barn, spädbarn, småbarn, Medfödd, defekt, kirurgi, Pediatric Surgery, Barnkirurgi, smärta, ömhet, ungdoms, Foster, Malformation, missbildning, Bröst, Maternal, bronkiolit, Kid, Neonat, baby, utvecklingsförsening, syndrom, Child Development, barns hälsa
+    '50': Efter stroke, efter fraktur, daghem, sjukgymnastik, sjukgymnast, arbetsterapeut, logoped, PT, OT, ST
+    '51': Polycystiskt njure, dialys, nefrit, nefrotiskt, redierande, njursvikt
+    '47': Undescended, testiklar, operforerad, invagination, PDA, TOF, kluven, omskärelse
+    '49': Cope loop, avlopp, spole, kran, röntgen, CT, CAT, PET, MRI, MRA, ultraljud, magnetiska, MIBI, venogram
+    '35': Sköldkörtel, binjurar, Endocrine, Diabetes, Hormone
+    '18': Cancer, tumör, onkolog, kemoterapi, Scan, Pet, strålbehandling, strålning, leukemi, testikel, onkologi, strålbehandling, RT, lungcancer
+    '42': Äldre, Geriatriska, Frekvent Falls, flera medicinska problem, demens, Rehab
+    '38': Mage, lever, Hepatit, Gastroenterologist, Gastroenterology, Crohns, ulcerös kolit, UC
+    '16': Psykiater, psykisk, Beteende, kognitiv, Disorder, onormal, Alzheimer Therapy, Attention, demens, autism, missbruk, äta, Insomnia, Mood, ångest, bipolär, depression, Vuxen, Tonåring, psykoterapi, psykologisk, schiz, personlighet, BPSD, neuros , psykos, dystoni, ångest, ätstörningar, kropp dysmorphia, stress
+    '39': Infectious Disease, Dengue, feber, malaria, infektion, HIV, tropiska sjukdomar
+    '44': Estetik, Scar, Laser, Botox, fyllmedel, fett bantning, IPL
+    '37': Lung, Respi, astma, lungcancer, andningssvikt, Rökning, KOL, schiz, personlighet, BPSD, neuros, psykos, dystoni, ångest, ätstörningar, kropp dysmorphia, stress, bronkit, Rökning
+    '45': Derm, hud, utslag, psoriasis, eksem, dermatit, dermatologi, mol
+    '40': Rheumato, reumatoid artrit, Joint, inflammation, autoimmun, SLE, gikt
+    '41': Blodsjukdomar, lymfom, leukemi, myelodysplasi, myeloplastic, blast
+    '19': Kirurgi, kirurg, General, buken, Colorectal, mage, tarm, tarm, lever, kolon, Bråck, hud, bröst, Tissue, mjuk, Trauma
+    '28': Diskbråck, ryggvärk, stel rygg, Cervical, spondylosis, Whiplash, PID, DDD, listhesis, rygg
+    '25': Fibroadenoma, bröstcancer, Mammo, Her2, SMAC, BRCA, bröst klump
+    '31': Höftfraktur Hip förskjutningar, höft, bäcken fraktur, bäckenben, Crush
+    '21': Adolescent Medicine, allergi och immunologi, kardiologi, endokrinologi, gastroenterologi, geriatrik, Hematology, infektionssjukdomar, njurmedicin, onkologi, Pulmonologi, reumatologi, Sport MedicineSports läkare, Idrottsskador
+    '26': Vener, artärer, åder, Graft, Fistel. Av, Vascular, hemangiom, PVD
+    '29': Impingement, Shoulder förskjutningar, frusen skuldra, Brachial, rotatorkuffen, nyckelbenet, NYCKELBEN, Supracondylar
+    '46': Neurosurg, hjärntumör, hjärntumör, aneurysm, shunt, craniect, hjärnkirurgi
+    '32': Ben / mjukvävnad cancer, Chemo, cancer, tumör-, tumör- Oncology
+    '30': Stukning, Fotled fraktur, Foot fraktur, fotled ligament, platt fot, pes, liktorn
+    '27': Fraktur, förskjutning, olycka, traumakirurgi, RTA, lårbens, multipel fraktur
+    '34': Karpaltunneln, De Quervain, Trigger, Finger, Scaphoid, handled, hand, colles
+    '17': Graviditet, hyperemesis, för tidig förlossning, bristning, livmoder, livmoder, partum, PE, eklampsi, leverans, tvilling, kejsarsnitt, äggstock, IVF, fertilitet, livmoderslemhinnan, endometrios, menstruation, menstruation, menorrhea, menorragi, PCOS, polycystiskt ovariesyndrom, hals-, livmoderhalsen, HPV, missfall, obstetrik, gynaeFertility
+    '10': Rekonstruktiv, ansikte, käke, Bröst, Ansiktsbehandling, mun, kropp, fett, återställning, restaurering, Korrigering, Micro, hand, handkirurgi, Burn, Burns, kosmetika, Graft, Sculpt, Sculpting, Autograft, xenograft, allograft Pediatric Surgery Kirurgiska, Morph, dubbla ögonlock, haka, hiss, augmentation, ärr översyn, fettsugning, mullvad avlägsnande, flik
+    '9': Oftalmologi, ögonläkare, ögon, vision, kirurgi, öga, ögonkirurgi, hornhinna, Blind, Laser, retinal, Retina, Utvidgning, elev, suddighet, rekonstruktiv, Katarakt, grå starr, glaukom, Pediatric, brytnings, okulär, Kirurgiska, borttagning, LASIK , närsynthet, Lazy Eye, Strabismus, ögonlock, Orbit, Eyeball
+    '8': Neurologi, neurolog, Nerve, hjärna, vara besvärad, Central, nervös, defekt, missbildning, Tumör, Disorder, kirurgi, kirurg, Alzheimers sjukdom, smärta, ryggmärg, Neurological, sömn, epilepsi, anfall, psykiatri, neuromuskulära, Pallative, Stroke , Parkinsons, kranial, PD, neuron, ALS, multipel skleros, MS, Parkinsons
+    '11': Kirurgiska, kirurgi, hjärta, Valve, Bypass, Coronary, Pulmonary, angioplastik, fartyg, Lung, sjukdomar, stroke, Pulse, Open Heart, Stent, Bröst, Thorax, implantation, Transplant, Graft stenos, Robot, Invasive, Cardiopulmonary, hjärta kirurgi, lungkirurgi, lung, CABG, kar
+    '7': Ortopedi, Ortopedisk kirurgi, Ortopedisk kirurgi, knä, ben, kirurgi, Spine, Hip, knuffar, rekonstruktiv, gemensamma, Byte, ligament, Sports Medicine, Sport, skada, tumör, Medfödda, degenerativa, ömhet, smärta, knäoperationer, Hip Skador
+    '33': Menisken Recon, Graft, knäoperation, ACL, MCL, LCL, korsbands, säkerhet, Osgood, ITB, iliotibial, hamstring, quadriceps
+ock, Orbit, Eyeball
+   
