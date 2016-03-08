@@ -14,4 +14,3 @@ en:
       access_token_invalid: invalid access token
       field:
         field_required: "the field is required"
-
