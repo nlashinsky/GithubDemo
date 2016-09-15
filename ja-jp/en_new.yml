@@ -1,0 +1,20 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: 間違いました
+      device_token:
+        cannot_be_blank: デバイストークンは空白にすることはできません
+      device_secret:
+        required: デバイスの秘密が必要です
+      device_type:
+        is_required: デバイスタイプが必要とされます
+      email_or_password_not_present: 要求は、メールアドレスとパスワードを含める必要があります
+      access_token_invalid: 無効なアクセストークン
+      field:
+        field_required: この項目は必須です。
+      field22:
+        field_required22: あなたはこのフィールドを入力する必要があります
+      field55:
+        field_required22: 男は、このフィールドを入力してください..お願い
+        Content_i_want_to_add: この新しいコンテンツを入力してください、私は日本語でこのコンテンツを見るために待つことができません
