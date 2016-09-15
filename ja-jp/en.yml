@@ -1,0 +1,27 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: 間違いました
+      device_token:
+        cannot_be_blank: デバイストークンは空白にすることはできません
+      device_type:
+        is_required: デバイスタイプが必要とされます
+      email_or_password_not_present: 要求は、メールアドレスとパスワードを含める必要があります
+      access_token_invalid: 無効なアクセストークン
+      video_request:
+        over: このビデオ通話は終わりました
+      video_request1:
+        over1: このビデオコールが行われます
+      video_request2:
+        over2: このビデオ通話が進行中です
+      video_request3:
+        over2: このビデオ44コールが進行中です
+      video_request4:
+        over2: このビデオ44コールが進行中です
+      video_request5:
+        newnew: 新新新
+      video_request6:
+        newseq: セグメント番号6はqordobaファイルに追加されます
+        Newnew: 明日ビーチに行くためにトップ10の理由
+Newnewnewnew: 明日ビーチに行くためにトップ10の理由
