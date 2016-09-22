@@ -18,4 +18,7 @@ en:
         field_required22: "You must enter this field"
       field55:
         field_required22: "please dude, enter this field .. please"  
-        Content_i_want_to_add: "Please enter this new content, I can't wait to see this content in Japanese"  
+        Content_i_want_to_add: "Please enter this new content, I can't wait to see this content in Japanese" 
+        
+        
+        More_content_i_want_to_add: "Please click here for more information" 
