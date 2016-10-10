@@ -1,0 +1,22 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: Falsch
+      device_token:
+        cannot_be_blank: Geräte-Token kann nicht leer sein
+      device_secret:
+        required: Das Gerät Geheimnis ist erforderlich
+      device_type:
+        is_required: Gerätetyp erforderlich
+      email_or_password_not_present: Der Antrag muss enthalten die E-Mail und das Passwort
+      access_token_invalid: Inkorrekter Zugangscode
+      field:
+        field_required: Das Feld ist erforderlich,
+      field22:
+        field_required22: Sie müssen dieses Feld eingeben
+      field55:
+        field_required22: Bitte Geck, geben Sie dieses Feld .. Bitte
+        Content_i_want_to_add: Bitte geben Sie diesen neuen Inhalt, ich kann nicht diesen Inhalt auf Japanisch warten, um zu sehen
+        More_content_i_want_to_add: Bitte klicken Sie hier für weitere Informationen
+        More_content_i_want_to_add_Button: Bitte klicken Sie auf diese Schaltfläche, um weitere Informationen
