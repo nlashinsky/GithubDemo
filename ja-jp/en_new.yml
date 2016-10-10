@@ -10,7 +10,7 @@ en:
       device_type:
         is_required: デバイスタイプが必要とされます
       email_or_password_not_present: 要求は、メールアドレスとパスワードを含める必要があります
-      access_token_invalid: 無効なアクセストークン
+      access_token_invalid: 無効なアクセストークンンンン
       field:
         field_required: この項目は必須です。
       field22:
