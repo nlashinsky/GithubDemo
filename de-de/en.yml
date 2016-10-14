@@ -1,0 +1,34 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: Falsch
+      device_token:
+        cannot_be_blank: Geräte-Token kann nicht leer sein
+      device_type:
+        is_required: Gerätetyp erforderlich
+      email_or_password_not_present: Der Antrag muss enthalten die E-Mail und das Passwort
+      access_token_invalid: Inkorrekter Zugangscode
+      video_request:
+        over: Dieses Videoanruf ist vorbei
+      video_request1:
+        over1: Dieses Videoanruf erfolgt
+      video_request2:
+        over2: Dieser Videoanruf ist im Gange
+      video_request3:
+        over2: Dieses Anruf im Gange
+      video_request4:
+        over2: Dieses 44 Anruf im Gange
+      video_request5:
+        newnew: Neu Neu Neu
+      video_request6:
+        newseq: Segmentnummer 6 wird dem qordoba-Datei hinzugefügt werden
+        Newnew: Zehn Gründe für den Strand zu gehen morgen
+Newnewnewnew: Top tausend Gründe, an den Strand zu gehen morgen
+Newnewnewnew2: Top tausend Gründe, an den Strand zu gehen morgen
+Newnewnewnew3: Top tausend Gründe, an den Strand zu gehen morgen
+Newnewnewnew4: Top tausend Gründe, an den Strand zu gehen morgen
+Newnewnewnew5: Top tausend Gründe, an den Strand zu gehen morgen
+Newnewnewnew6: Top tausend Gründe, an den Strand zu gehen morgen
+HSBC: Hallo
+500px: Der Fuchs sprang über den Zaun Dogpatch
